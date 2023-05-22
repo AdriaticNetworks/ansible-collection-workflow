@@ -1,0 +1,7 @@
+- name: Print var_a
+  debug:
+    msg: "{{ var_a }}"
+
+- name: Print var_b
+  debug:
+    msg: "{{ var_b }}"
